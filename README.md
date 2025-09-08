@@ -1,6 +1,7 @@
 # JavaScript Learning
 
-This repository contains my solutions for exercises from the [Boot.dev JavaScript course](https://www.boot.dev/courses/learn-javascript) starting from **Chapter 4 onward**.  
+This repository contains my solutions for exercises from the [Boot.dev JavaScript course](https://www.boot.dev/courses/learn-javascript) starting from **Chapter 4 onward**.
+
 The purpose of this repo is to go beyond surface-level understanding and dive deeper into the language by practicing with structured exercises.
 
 ---
