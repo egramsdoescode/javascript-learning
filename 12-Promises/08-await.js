@@ -1,5 +1,4 @@
-// ?
-
+const message = await updateMessageStatus("1", "Sending", true);
 console.log(message);
 
 function updateMessageStatus(messageId, currentStatus, isDelivered) {
