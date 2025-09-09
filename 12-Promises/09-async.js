@@ -12,4 +12,10 @@ async function sha256Hex(str) {
     return hex;
 }
 
-console.log(getMessageHash("Ethan", "This is an encrypted message."));
+try {
+    const messageHash = await getMessageHash("Ethan", "This is secret.");
+    console.log(messageHash);
+} catch (error) {
+    console.log(error);
+}
+
