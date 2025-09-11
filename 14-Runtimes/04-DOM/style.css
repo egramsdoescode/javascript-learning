@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+button {
+    margin: 5px 5px 5px 0;
+    padding: 8px 14px;
+    cursor: pointer;
+}
+#timer,
+#counter {
+    font-weight: bold;
+    margin: 5px 0;
+}
