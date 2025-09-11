@@ -18,7 +18,7 @@ The main goals of this repository are:
 
 ## Repository Structure
 
-Exercises are organized by **chapter** and **lesson** for clarity. Each folder will contain files with the following format:
+Exercises are organized by **chapter** and **lesson** for clarity. Each directory will contain files with the following format (with the exception of chapter 14 lesson 4, which is contained in a subdirectory):
 ```bash
 [lesson_number]-[lesson_name].js
 ```
